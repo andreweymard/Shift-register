@@ -1,2 +1,2 @@
 # Shift-register
-8-bit SIPO shift register - Arduino
+SNx4HC595 8-bit SIPO shift register - Arduino
